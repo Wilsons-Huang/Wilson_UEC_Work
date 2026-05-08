@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Allowance xmlns="urn:GEINV:eInvoiceMessage:B0101:4.1">
+    <Main>
+        <AllowanceNumber>GS5041070099001</AllowanceNumber>
+        <AllowanceDate>20260423</AllowanceDate>
+        <Seller>
+            <Identifier>23997652</Identifier>
+            <Name>汎宇電商</Name>
+            <Address>台北市南港路三段50巷7號4樓-登記地址</Address>
+        </Seller>
+        <Buyer>
+            <Identifier>84355650</Identifier>
+            <Name>汎宇電商</Name>
+            <Address>台北市南港路三段50巷7號4樓-登記地址</Address>
+        </Buyer>
+        <AllowanceType>2</AllowanceType>
+    </Main>
+    <Details>
+        <ProductItem>
+            <OriginalInvoiceDate>20260423</OriginalInvoiceDate>
+            <OriginalInvoiceNumber>GS50410700</OriginalInvoiceNumber>
+            <OriginalSequenceNumber>1</OriginalSequenceNumber>
+            <OriginalDescription>大紅棗(調理用)300克</OriginalDescription>
+            <Quantity>1</Quantity>
+            <UnitPrice>10</UnitPrice>
+            <Amount>10</Amount>
+            <Tax>1</Tax>
+            <AllowanceSequenceNumber>1</AllowanceSequenceNumber>
+            <TaxType>1</TaxType>
+        </ProductItem>
+    </Details>
+    <Amount>
+        <TaxAmount>1</TaxAmount>
+        <TotalAmount>11</TotalAmount>
+    </Amount>
+</Allowance>

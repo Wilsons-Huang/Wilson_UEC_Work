@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<InvoiceConfirm xmlns="urn:GEINV:eInvoiceMessage:A0202:4.1">
+    <CancelInvoiceNumber>GS50410700</CancelInvoiceNumber>
+    <InvoiceDate>20260423</InvoiceDate>
+    <BuyerId>84355650</BuyerId>
+    <SellerId>23997652</SellerId>
+    <CancelDate>20260423</CancelDate>
+    <CancelTime>16:14:10</CancelTime>
+    <CancelReason>測試A0202</CancelReason>
+    <Remark>TEST</Remark>
+</InvoiceConfirm>

@@ -1,0 +1,32 @@
+Insert into
+    T205_INVOICE_ASSIGN_NO (
+        SERIES_NO,
+        BAN,
+        INVOICE_TYPE,
+        YEAR_MONTH,
+        INVOICE_TRACK,
+        INVOICE_BEGIN_NO,
+        INVOICE_END_NO,
+        INVOICE_BOOKLET,
+        INSERT_DTM,
+        PROCESS_STATUS,
+        PROCESS_DTM,
+        POS_INVOICE_STATUS,
+        PROCESS_TYPE
+    )
+values
+    (
+        '2026050599900005',
+        '23997652',
+        '07',
+        '11506',
+        'ZL',
+        '68738150',
+        '68738349',
+        4,
+        '2024/01/08',
+        '1',
+        null,
+        'N',
+        'PO0401'
+    );
